@@ -6,6 +6,12 @@ This repository contains the annoatted corpus created to test the annotation gui
 
 ## Raw Documents
 
+This folder contains all the culinary documents that have been annotated to test the annotation guidelines for taste without annotations.
+
 ## Annotated Document
 
+This folder contains all the annotated documents in the format Webanno.tsv
+
 ## Annotation guidelines 
+
+This folder contains the annotation guidelines for taste references in textual data. 
