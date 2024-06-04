@@ -8,7 +8,7 @@ This repository contains the annoatted corpus created to test the annotation gui
 
 This folder contains all the culinary documents that have been annotated to test the annotation guidelines for taste without annotations.
 
-## Annotated Document
+## Annotated Documents
 
 This folder contains all the annotated documents in the format Webanno.tsv
 
