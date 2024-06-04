@@ -14,4 +14,4 @@ This folder contains all the annotated documents in the format Webanno.tsv
 
 ## Annotation guidelines 
 
-This folder contains the annotation guidelines for taste references in textual data. 
+This document contains the annotation guidelines for taste references in textual data. 
